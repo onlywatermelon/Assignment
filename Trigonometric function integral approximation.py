@@ -34,5 +34,5 @@ result = 0.0
 
 for i in range(1,n):
     result += ((b-a)/n)*getattr(math,fun)(a+(b-a)*(i-0.5)/n) #getattr() 将输入字符转变为函数
-
+    
 print(result)
