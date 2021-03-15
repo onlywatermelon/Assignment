@@ -1,4 +1,4 @@
 # Assignment
-This repository stores some of the solutions to programming assignments of some crouses, including CSC 1001 and CSC 1002, in CUHK, Shenzhen.
+# CSC 1002
 
-Pull requests are welcome. You, however, are supposed to do the assignments by yourself. This is for reference only.
+This branch is for CSC 1002, offered in Spring 2021 by Mr. Kinley Lam, assignment codes.
