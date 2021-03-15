@@ -3,6 +3,7 @@
 # Ref. Wm. Woolsey Johnson, & Story, W. (1879). Notes on the "15" Puzzle. American Journal of Mathematics, 2(4), 397-404. doi:10.2307/2369492
 
 def inver(): # determine the inversion of the list.
+    tem_list, inversion = [], 0
     for i in reversed(range(0, n)):
         pairs_of_invers = bisect.bisect_left(tem_list, l[i])
         inversion += pairs_of_invers
